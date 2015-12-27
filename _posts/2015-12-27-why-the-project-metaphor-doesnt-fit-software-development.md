@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-27T11:48:42.791Z'
-dateModified: '2015-12-27T11:48:10.994Z'
+datePublished: '2015-12-27T11:54:45.905Z'
+dateModified: '2015-12-27T11:54:13.054Z'
 title: Why the project metaphor doesn’t fit software development
 author: []
 authors: []
