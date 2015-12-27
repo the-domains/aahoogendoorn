@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[aahoogendoorn]]></title>
         <description><![CDATA[aahoogendoorn]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aahoogendoorn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 11:48:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Dec 2015 11:54:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aahoogendoorn/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Software development is a very young discipline]]></title>
             <description><![CDATA[<article><h1>Software development is a very young discipline</h1><p>In 2009 I hired a building contractor to build a house. Together with an 
@@ -14,7 +14,19 @@ carefully picked the materials, the location of the windows, the placement of
 the rooms, the bathroom, the attic and everything the contractor needed to come 
 up with a price and a delivery date. About a year-and-a-half later the house was 
 completed.</p></article>]]></description>
-            <link>undefinedwhy-the-project-metaphor-doesnt-fit-software-development/index.html</link>
+            <link>https://thegrid.ai/aahoogendoorn/why-the-project-metaphor-doesnt-fit-software-development/index.html</link>
+            <guid isPermaLink="false">b54ee84b-a730-48cd-8042-a08b78434ac0</guid>
+            <pubDate>Sun, 27 Dec 2015 11:54:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Software development is a very young discipline]]></title>
+            <description><![CDATA[<article><h1>Software development is a very young discipline</h1><p>In 2009 I hired a building contractor to build a house. Together with an 
+architect and the contractor I worked out the features. We wanted a basement, we 
+carefully picked the materials, the location of the windows, the placement of 
+the rooms, the bathroom, the attic and everything the contractor needed to come 
+up with a price and a delivery date. About a year-and-a-half later the house was 
+completed.</p></article>]]></description>
+            <link>https://thegrid.ai/aahoogendoorn/why-the-project-metaphor-doesnt-fit-software-development/index.html</link>
             <guid isPermaLink="false">0fdc9bb9-2150-4cb9-a811-eaf0e0dfcba4</guid>
             <pubDate>Sun, 27 Dec 2015 11:48:42 GMT</pubDate>
         </item>
